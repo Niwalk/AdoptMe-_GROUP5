@@ -8,11 +8,9 @@ namespace AdoptMe___GROUP5
 {
     internal class Animal
     {
-        String id; {  get; set; }
+        String id {  get; set; }
         String name { get; set; }
         String color { get; set; }
         String species { get; set; }
-
-        String 
     }
 }
