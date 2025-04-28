@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Adoptee.cs" />
     <Compile Include="Animal.cs" />
+    <Compile Include="dbConnection.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Admin.cs" />
     <Compile Include="Form1.cs">
